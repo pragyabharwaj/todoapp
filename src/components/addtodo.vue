@@ -8,7 +8,7 @@
 </template>
 
 <script>
-// import uuid from 'uuid';
+
 export default {
   name: "AddTodo",
   data() {
@@ -42,4 +42,3 @@ export default {
     flex: 2;
   }
 </style>
-

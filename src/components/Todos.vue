@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import TodoItem from './todoitem';
+import TodoItem from './TodoItem';
 export default {
   name: "Todos",
   components: {
